@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="525e0c37-7eeb-4030-95c3-7e7d5271e7a3" name="Default Changelist" comment="" />
+    <list default="true" id="525e0c37-7eeb-4030-95c3-7e7d5271e7a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercizio Player/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercizio Player/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercizio Player/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercizio Player/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercizio Player/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercizio Player/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Esercizio Player/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercizio Player/Esercizio Player.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercizio Player/out/production/Esercizio Player/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercizio Player/out/production/Esercizio Player/com/company/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercizio Player/out/production/Esercizio Player/com/company/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercizio Player/out/production/Esercizio Player/com/company/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercizio Player/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercizio Player/src/com/company/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercizio Player/src/com/company/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Esercizio Player/src/com/company/Team.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rappresentazioni publicazioni/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Rappresentazioni publicazioni/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +33,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/zoo/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="45" column="4" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
+              <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -26,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/zoo/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -38,7 +57,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/zoo/Zoo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="595">
               <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -48,6 +67,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -66,16 +88,18 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,10 +123,10 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -151,17 +175,18 @@
       <workItem from="1554976428592" duration="4523000" />
       <workItem from="1555005725681" duration="9462000" />
       <workItem from="1555022217851" duration="789000" />
+      <workItem from="1555313118997" duration="628000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14774000" />
+    <option name="totallyTimeSpent" value="15402000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="782" height="831" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23916084" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23854448" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -316,16 +341,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoo/Animal.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zoo/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state relative-caret-position="357">
+          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zoo/Zoo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="595">
           <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -333,13 +361,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoo/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zoo/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="45" column="4" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
         </state>
       </provider>
     </entry>
